@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://benediktgrether.github.io/wordpress-base-theme-docs',
+    site: 'https://benediktgrether.github.io/wordpress-base-theme-docs/',
 
     integrations: [
         starlight({

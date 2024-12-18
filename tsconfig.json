@@ -1,7 +1,7 @@
 {
   "extends": "astro/tsconfigs/strict",
     "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://benediktgrether.github.io/wordpress-base-theme-docs/",
     "paths": {
       "@components/*": ["./src/astro-components/*"],
       "@scss/*": ["./src/scss/*"],
