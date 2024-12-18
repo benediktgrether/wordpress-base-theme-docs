@@ -3,11 +3,11 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://docs.everyday.agency/',
+    site: '/',
 
     integrations: [
         starlight({
-            title: 'everyday.agency Documentation',
+            title: 'WordPress Custom Gutenberg Documentation',
             social: {
                 github: 'https://github.com/withastro/starlight',
             },
